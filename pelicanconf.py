@@ -4,10 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = u'seclab'
 SITENAME = u'Cyber Security Reading Group @JHU'
-SITEURL = 'http://zarzen.me/sec-read'
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
-THEME = './themes/gum'
+THEME = './themes/elegant'
 
 TIMEZONE = 'America/New_York'
 
