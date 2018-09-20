@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'seclab'
 SITENAME = u'Cyber Security Reading Group @JHU'
-SITEURL = 'http://zarzen.me/sec-read'
+SITEURL = './'
 
 PATH = 'content'
 THEME = './themes/elegant'
