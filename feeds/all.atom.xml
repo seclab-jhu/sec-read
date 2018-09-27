@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Cyber Security Reading Group @JHU</title><link href="https://seclab-jhu.github.io/sec-read/" rel="alternate"></link><link href="https://seclab-jhu.github.io/sec-read/feeds/all.atom.xml" rel="self"></link><id>https://seclab-jhu.github.io/sec-read/</id><updated>2018-09-13T00:00:00-04:00</updated><entry><title>First seminar @18fall</title><link href="https://seclab-jhu.github.io/sec-read/first-seminar-18fall.html" rel="alternate"></link><published>2018-09-13T00:00:00-04:00</published><updated>2018-09-13T00:00:00-04:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-09-13:/sec-read/first-seminar-18fall.html</id><summary type="html">&lt;p&gt;The first seminar will be held at ...&lt;/p&gt;</summary><content type="html">&lt;p&gt;The first seminar will be held at ...&lt;/p&gt;</content><category term="2018fall"></category><category term="seminar"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Cyber Security Reading Group @JHU</title><link href="https://seclab-jhu.github.io/sec-read/" rel="alternate"></link><link href="https://seclab-jhu.github.io/sec-read/feeds/all.atom.xml" rel="self"></link><id>https://seclab-jhu.github.io/sec-read/</id><updated>2018-09-27T00:00:00-04:00</updated><entry><title>Trojaning Attack on Neural Networks @Malone222, Oct-3</title><link href="https://seclab-jhu.github.io/sec-read/trojaning-attack-on-neural-networks-malone222-oct-3.html" rel="alternate"></link><published>2018-09-27T00:00:00-04:00</published><updated>2018-09-27T00:00:00-04:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-09-27:/sec-read/trojaning-attack-on-neural-networks-malone222-oct-3.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_03A-5_Liu_paper.pdf"&gt;Trojaning Attack on Neural Networks&lt;/a&gt;
+ Authors: Yingqi Liu, Shiqing Ma, Yousra Aafer, Wen-Chuan Lee, Juan Zhai, Weihang Wang, Xiangyu Zhang
+* Presenter: Zhen Zhang&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date: October 3rd, 2018&lt;/li&gt;
+&lt;li&gt;Location: Malone 222&lt;/li&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_03A-5_Liu_paper.pdf"&gt;Trojaning Attack on Neural Networks&lt;/a&gt;
+ Authors: Yingqi Liu, Shiqing Ma, Yousra Aafer, Wen-Chuan Lee, Juan Zhai, Weihang Wang, Xiangyu Zhang
+* Presenter: Zhen Zhang&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date: October 3rd, 2018&lt;/li&gt;
+&lt;li&gt;Location: Malone 222&lt;/li&gt;
+&lt;/ul&gt;</content><category term="2018fall"></category><category term="seminar"></category><category term="neural networks"></category><category term="attack"></category></entry></feed>
