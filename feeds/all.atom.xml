@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Cyber Security Reading Group @JHU</title><link href="https://seclab-jhu.github.io/sec-read/" rel="alternate"></link><link href="https://seclab-jhu.github.io/sec-read/feeds/all.atom.xml" rel="self"></link><id>https://seclab-jhu.github.io/sec-read/</id><updated>2018-10-12T00:00:00-04:00</updated><entry><title>ATtention Spanned: Comprehensive Vulnerability Analysis of AT Commands Within the Android Ecosystem</title><link href="https://seclab-jhu.github.io/sec-read/attention-spanned-comprehensive-vulnerability-analysis-of-at-commands-within-the-android-ecosystem.html" rel="alternate"></link><published>2018-10-12T00:00:00-04:00</published><updated>2018-10-12T00:00:00-04:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-10-12:/sec-read/attention-spanned-comprehensive-vulnerability-analysis-of-at-commands-within-the-android-ecosystem.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Cyber Security Reading Group @JHU</title><link href="https://seclab-jhu.github.io/sec-read/" rel="alternate"></link><link href="https://seclab-jhu.github.io/sec-read/feeds/all.atom.xml" rel="self"></link><id>https://seclab-jhu.github.io/sec-read/</id><updated>2018-10-21T00:00:00-04:00</updated><entry><title>Prime and Prejudice: Primality Testing Under Adversarial Conditions</title><link href="https://seclab-jhu.github.io/sec-read/prime-and-prejudice-primality-testing-under-adversarial-conditions.html" rel="alternate"></link><published>2018-10-21T00:00:00-04:00</published><updated>2018-10-21T00:00:00-04:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-10-21:/sec-read/prime-and-prejudice-primality-testing-under-adversarial-conditions.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://eprint.iacr.org/2018/749.pdf"&gt;Prime and Prejudice: Primality Testing Under Adversarial Conditions&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Martin R. Albrecht, Jake Massimo, Kenneth G. Paterson, and Juraj Somorovsky&lt;/li&gt;
+&lt;li&gt;Presenter: Max Zinkus&lt;/li&gt;
+&lt;li&gt;Date: October 24th, 2018&lt;/li&gt;
+&lt;li&gt;Location: Malone 222&lt;/li&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://eprint.iacr.org/2018/749.pdf"&gt;Prime and Prejudice: Primality Testing Under Adversarial Conditions&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Martin R. Albrecht, Jake Massimo, Kenneth G. Paterson, and Juraj Somorovsky&lt;/li&gt;
+&lt;li&gt;Presenter: Max Zinkus&lt;/li&gt;
+&lt;li&gt;Date: October 24th, 2018&lt;/li&gt;
+&lt;li&gt;Location: Malone 222&lt;/li&gt;
+&lt;/ul&gt;</content><category term="18fall"></category><category term="seminar"></category><category term="cryptographic"></category><category term="adversarial"></category></entry><entry><title>ATtention Spanned: Comprehensive Vulnerability Analysis of AT Commands Within the Android Ecosystem</title><link href="https://seclab-jhu.github.io/sec-read/attention-spanned-comprehensive-vulnerability-analysis-of-at-commands-within-the-android-ecosystem.html" rel="alternate"></link><published>2018-10-12T00:00:00-04:00</published><updated>2018-10-12T00:00:00-04:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-10-12:/sec-read/attention-spanned-comprehensive-vulnerability-analysis-of-at-commands-within-the-android-ecosystem.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-tian.pdf"&gt;ATtention Spanned: Comprehensive Vulnerability Analysis of AT Commands Within the Android Ecosystem&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Authors: Dave (Jing) Tian, Grant Hernandez, Joseph I. Choi, Vanessa Frost1, Christie Ruales, Patrick Traynor, Hayawardh Vijayakumar, Lee Harrison, Amir Rahmati, Michael Grace and Kevin R. B. Butler&lt;/li&gt;
