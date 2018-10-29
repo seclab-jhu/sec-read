@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Cyber Security Reading Group @JHU</title><link href="https://seclab-jhu.github.io/sec-read/" rel="alternate"></link><link href="https://seclab-jhu.github.io/sec-read/feeds/all.atom.xml" rel="self"></link><id>https://seclab-jhu.github.io/sec-read/</id><updated>2018-10-21T00:00:00-04:00</updated><entry><title>Prime and Prejudice: Primality Testing Under Adversarial Conditions</title><link href="https://seclab-jhu.github.io/sec-read/prime-and-prejudice-primality-testing-under-adversarial-conditions.html" rel="alternate"></link><published>2018-10-21T00:00:00-04:00</published><updated>2018-10-21T00:00:00-04:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-10-21:/sec-read/prime-and-prejudice-primality-testing-under-adversarial-conditions.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Cyber Security Reading Group @JHU</title><link href="https://seclab-jhu.github.io/sec-read/" rel="alternate"></link><link href="https://seclab-jhu.github.io/sec-read/feeds/all.atom.xml" rel="self"></link><id>https://seclab-jhu.github.io/sec-read/</id><updated>2018-10-31T00:00:00-04:00</updated><entry><title>Smoke Screener or Straight Shooter: Detecting Elite Sybil Attacks in User-Review Social Networks</title><link href="https://seclab-jhu.github.io/sec-read/smoke-screener-or-straight-shooter-detecting-elite-sybil-attacks-in-user-review-social-networks.html" rel="alternate"></link><published>2018-10-31T00:00:00-04:00</published><updated>2018-10-31T00:00:00-04:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-10-31:/sec-read/smoke-screener-or-straight-shooter-detecting-elite-sybil-attacks-in-user-review-social-networks.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_10-3_Zheng_paper.pdf"&gt;Smoke Screener or Straight Shooter: Detecting Elite Sybil Attacks in User-Review Social Networks&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Haizhong Zheng, Minhui Xue, Hao Lu, Shuang Hao, Haojin Zhu, Xiaohui Liang, Keith Ross&lt;/li&gt;
+&lt;li&gt;Presenter: Gabrielle Beck&lt;/li&gt;
+&lt;li&gt;Date: October 31st, 2018&lt;/li&gt;
+&lt;li&gt;Location: Malone 222&lt;/li&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_10-3_Zheng_paper.pdf"&gt;Smoke Screener or Straight Shooter: Detecting Elite Sybil Attacks in User-Review Social Networks&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Haizhong Zheng, Minhui Xue, Hao Lu, Shuang Hao, Haojin Zhu, Xiaohui Liang, Keith Ross&lt;/li&gt;
+&lt;li&gt;Presenter: Gabrielle Beck&lt;/li&gt;
+&lt;li&gt;Date: October 31st, 2018&lt;/li&gt;
+&lt;li&gt;Location: Malone 222&lt;/li&gt;
+&lt;/ul&gt;</content><category term="18fall"></category><category term="seminar"></category><category term="fake reviews"></category><category term="sybil attacks"></category><category term="reputation attacks"></category></entry><entry><title>Prime and Prejudice: Primality Testing Under Adversarial Conditions</title><link href="https://seclab-jhu.github.io/sec-read/prime-and-prejudice-primality-testing-under-adversarial-conditions.html" rel="alternate"></link><published>2018-10-21T00:00:00-04:00</published><updated>2018-10-21T00:00:00-04:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-10-21:/sec-read/prime-and-prejudice-primality-testing-under-adversarial-conditions.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://eprint.iacr.org/2018/749.pdf"&gt;Prime and Prejudice: Primality Testing Under Adversarial Conditions&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Authors: Martin R. Albrecht, Jake Massimo, Kenneth G. Paterson, and Juraj Somorovsky&lt;/li&gt;
