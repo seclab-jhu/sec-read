@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Cyber Security Reading Group @JHU - Seminars</title><link href="https://seclab-jhu.github.io/sec-read/" rel="alternate"></link><link href="https://seclab-jhu.github.io/sec-read/feeds/seminars.atom.xml" rel="self"></link><id>https://seclab-jhu.github.io/sec-read/</id><updated>2018-11-14T00:00:00-05:00</updated><entry><title>MineSweeper: An In-depth Look into Drive-by-Cryptocurrency Mining and Its Defense</title><link href="https://seclab-jhu.github.io/sec-read/minesweeper-an-in-depth-look-into-drive-by-cryptocurrency-mining-and-its-defense.html" rel="alternate"></link><published>2018-11-14T00:00:00-05:00</published><updated>2018-11-14T00:00:00-05:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-11-14:/sec-read/minesweeper-an-in-depth-look-into-drive-by-cryptocurrency-mining-and-its-defense.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Cyber Security Reading Group @JHU - Seminars</title><link href="https://seclab-jhu.github.io/sec-read/" rel="alternate"></link><link href="https://seclab-jhu.github.io/sec-read/feeds/seminars.atom.xml" rel="self"></link><id>https://seclab-jhu.github.io/sec-read/</id><updated>2018-11-26T00:00:00-05:00</updated><entry><title>LEMNA: Explaining Deep Learning based Security Applications</title><link href="https://seclab-jhu.github.io/sec-read/lemna-explaining-deep-learning-based-security-applications.html" rel="alternate"></link><published>2018-11-26T00:00:00-05:00</published><updated>2018-11-26T00:00:00-05:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-11-26:/sec-read/lemna-explaining-deep-learning-based-security-applications.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://people.cs.vt.edu/gangwang/ccs18.pdf"&gt;LEMNA: Explaining Deep Learning based Security Applications&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Wenbo Guo, Dongliang Mu, Jun Xu, Purui Su, Gang Wang, Xinyu Xing&lt;/li&gt;
+&lt;li&gt;Presenter: Zhen Zhang&lt;/li&gt;
+&lt;li&gt;Date: November 28th, 2018&lt;/li&gt;
+&lt;li&gt;Location: Malone 222&lt;/li&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://people.cs.vt.edu/gangwang/ccs18.pdf"&gt;LEMNA: Explaining Deep Learning based Security Applications&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Wenbo Guo, Dongliang Mu, Jun Xu, Purui Su, Gang Wang, Xinyu Xing&lt;/li&gt;
+&lt;li&gt;Presenter: Zhen Zhang&lt;/li&gt;
+&lt;li&gt;Date: November 28th, 2018&lt;/li&gt;
+&lt;li&gt;Location: Malone 222&lt;/li&gt;
+&lt;/ul&gt;</content><category term="18fall"></category><category term="seminar"></category><category term="deep learning"></category><category term="reverse engineering"></category></entry><entry><title>MineSweeper: An In-depth Look into Drive-by-Cryptocurrency Mining and Its Defense</title><link href="https://seclab-jhu.github.io/sec-read/minesweeper-an-in-depth-look-into-drive-by-cryptocurrency-mining-and-its-defense.html" rel="alternate"></link><published>2018-11-14T00:00:00-05:00</published><updated>2018-11-14T00:00:00-05:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-11-14:/sec-read/minesweeper-an-in-depth-look-into-drive-by-cryptocurrency-mining-and-its-defense.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://seclab.cs.ucsb.edu/media/uploads/papers/minesweeper_ccs18.pdf"&gt;MineSweeper: An In-depth Look into Drive-by-Cryptocurrency Mining and Its Defense&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Authors: Radhesh Krishnan Konoth, Emanuele Vineti, Veelasha Moonsamy, Martina Lindorfer, Christopher Kruegel, Herbert Bos, Giovanni Vigna&lt;/li&gt;
