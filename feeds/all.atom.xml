@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Cyber Security Reading Group @JHU</title><link href="https://seclab-jhu.github.io/sec-read/" rel="alternate"></link><link href="https://seclab-jhu.github.io/sec-read/feeds/all.atom.xml" rel="self"></link><id>https://seclab-jhu.github.io/sec-read/</id><updated>2018-11-26T00:00:00-05:00</updated><entry><title>LEMNA: Explaining Deep Learning based Security Applications</title><link href="https://seclab-jhu.github.io/sec-read/lemna-explaining-deep-learning-based-security-applications.html" rel="alternate"></link><published>2018-11-26T00:00:00-05:00</published><updated>2018-11-26T00:00:00-05:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-11-26:/sec-read/lemna-explaining-deep-learning-based-security-applications.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Cyber Security Reading Group @JHU</title><link href="https://seclab-jhu.github.io/sec-read/" rel="alternate"></link><link href="https://seclab-jhu.github.io/sec-read/feeds/all.atom.xml" rel="self"></link><id>https://seclab-jhu.github.io/sec-read/</id><updated>2018-12-05T00:00:00-05:00</updated><entry><title>JavaScript Zero: Real JavaScript and Zero Side-Channel Attacks</title><link href="https://seclab-jhu.github.io/sec-read/javascript-zero-real-javascript-and-zero-side-channel-attacks.html" rel="alternate"></link><published>2018-12-05T00:00:00-05:00</published><updated>2018-12-05T00:00:00-05:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-12-05:/sec-read/javascript-zero-real-javascript-and-zero-side-channel-attacks.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://mlq.me/download/jszero.pdf"&gt;JavaScript Zero: Real JavaScript and Zero Side-Channel Attacks&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Michael Schwarz, Moritz Lipp and Daniel Gruss&lt;/li&gt;
+&lt;li&gt;Presenter: Shujiang Wu&lt;/li&gt;
+&lt;li&gt;Date: December 5th, 2018&lt;/li&gt;
+&lt;li&gt;Location: Malone 222&lt;/li&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://mlq.me/download/jszero.pdf"&gt;JavaScript Zero: Real JavaScript and Zero Side-Channel Attacks&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Michael Schwarz, Moritz Lipp and Daniel Gruss&lt;/li&gt;
+&lt;li&gt;Presenter: Shujiang Wu&lt;/li&gt;
+&lt;li&gt;Date: December 5th, 2018&lt;/li&gt;
+&lt;li&gt;Location: Malone 222&lt;/li&gt;
+&lt;/ul&gt;</content><category term="18fall"></category><category term="seminar"></category><category term="javascript"></category><category term="side-channel"></category><category term="attack"></category></entry><entry><title>LEMNA: Explaining Deep Learning based Security Applications</title><link href="https://seclab-jhu.github.io/sec-read/lemna-explaining-deep-learning-based-security-applications.html" rel="alternate"></link><published>2018-11-26T00:00:00-05:00</published><updated>2018-11-26T00:00:00-05:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2018-11-26:/sec-read/lemna-explaining-deep-learning-based-security-applications.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
 &lt;p&gt;&lt;a href="http://people.cs.vt.edu/gangwang/ccs18.pdf"&gt;LEMNA: Explaining Deep Learning based Security Applications&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Authors: Wenbo Guo, Dongliang Mu, Jun Xu, Purui Su, Gang Wang, Xinyu Xing&lt;/li&gt;
