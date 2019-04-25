@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Cyber Security Reading Group @JHU</title><link href="https://seclab-jhu.github.io/sec-read/" rel="alternate"></link><link href="https://seclab-jhu.github.io/sec-read/feeds/all.atom.xml" rel="self"></link><id>https://seclab-jhu.github.io/sec-read/</id><updated>2019-04-17T00:00:00-04:00</updated><entry><title>SoK: Science, Security, and the Elusive Goal of Security as a Scientific Pursuit @Malone222</title><link href="https://seclab-jhu.github.io/sec-read/sok-science-security-and-the-elusive-goal-of-security-as-a-scientific-pursuit-malone222.html" rel="alternate"></link><published>2019-04-17T00:00:00-04:00</published><updated>2019-04-17T00:00:00-04:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2019-04-17:/sec-read/sok-science-security-and-the-elusive-goal-of-security-as-a-scientific-pursuit-malone222.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Cyber Security Reading Group @JHU</title><link href="https://seclab-jhu.github.io/sec-read/" rel="alternate"></link><link href="https://seclab-jhu.github.io/sec-read/feeds/all.atom.xml" rel="self"></link><id>https://seclab-jhu.github.io/sec-read/</id><updated>2019-04-24T00:00:00-04:00</updated><entry><title>Fakesbook @Malone222</title><link href="https://seclab-jhu.github.io/sec-read/fakesbook-malone222.html" rel="alternate"></link><published>2019-04-24T00:00:00-04:00</published><updated>2019-04-24T00:00:00-04:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2019-04-24:/sec-read/fakesbook-malone222.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.dropbox.com/s/87xqn2v6ogijvmn/sigcse19-Max-Fakesbook.pdf?dl=0"&gt;Fakesbook&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Maximilian Zinkus, Oliver Curry, Marina Moore, Zachary Peterson, Zoë J. Wood&lt;/li&gt;
+&lt;li&gt;Presenter: Maximilian Zinkus&lt;/li&gt;
+&lt;li&gt;Date: April 24th, 2019&lt;/li&gt;
+&lt;li&gt;Location: Malone 222&lt;/li&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Paper&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.dropbox.com/s/87xqn2v6ogijvmn/sigcse19-Max-Fakesbook.pdf?dl=0"&gt;Fakesbook&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Maximilian Zinkus, Oliver Curry, Marina Moore, Zachary Peterson, Zoë J. Wood&lt;/li&gt;
+&lt;li&gt;Presenter: Maximilian Zinkus&lt;/li&gt;
+&lt;li&gt;Date: April 24th, 2019&lt;/li&gt;
+&lt;li&gt;Location: Malone 222&lt;/li&gt;
+&lt;/ul&gt;</content><category term="19spring"></category><category term="seminar"></category><category term="privacy"></category><category term="social media"></category><category term="simulation"></category></entry><entry><title>SoK: Science, Security, and the Elusive Goal of Security as a Scientific Pursuit @Malone222</title><link href="https://seclab-jhu.github.io/sec-read/sok-science-security-and-the-elusive-goal-of-security-as-a-scientific-pursuit-malone222.html" rel="alternate"></link><published>2019-04-17T00:00:00-04:00</published><updated>2019-04-17T00:00:00-04:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2019-04-17:/sec-read/sok-science-security-and-the-elusive-goal-of-security-as-a-scientific-pursuit-malone222.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/scienceAndSecuritySoK.pdf"&gt;SoK: Science, Security, and the Elusive Goal of Security as a Scientific Pursuit&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Authors:Cormac Herley, P.C. van Oorschot &lt;/li&gt;
@@ -45,14 +59,14 @@
 &lt;p&gt;&lt;a href="https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02A-1_Jero_paper.pdf"&gt;Automated Attack Discovery in TCP Congestion Control Using a Model-guided Approach&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Authors: Samuel Jero, Endadul Hoque, David Choffnes, Alan Mislove and Cristina Nita-Rotaru&lt;/li&gt;
-&lt;li&gt;Presenter: Babrielle Beck&lt;/li&gt;
+&lt;li&gt;Presenter: Gabrielle Beck&lt;/li&gt;
 &lt;li&gt;Date: March 13rd, 2019&lt;/li&gt;
 &lt;li&gt;Location: Malone 228&lt;/li&gt;
 &lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Paper&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02A-1_Jero_paper.pdf"&gt;Automated Attack Discovery in TCP Congestion Control Using a Model-guided Approach&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Authors: Samuel Jero, Endadul Hoque, David Choffnes, Alan Mislove and Cristina Nita-Rotaru&lt;/li&gt;
-&lt;li&gt;Presenter: Babrielle Beck&lt;/li&gt;
+&lt;li&gt;Presenter: Gabrielle Beck&lt;/li&gt;
 &lt;li&gt;Date: March 13rd, 2019&lt;/li&gt;
 &lt;li&gt;Location: Malone 228&lt;/li&gt;
 &lt;/ul&gt;</content><category term="19spring"></category><category term="seminar"></category><category term="TCP congestion control"></category><category term="automated attack"></category><category term="discovery attacks"></category></entry><entry><title>ASLR on the Line: Practical Cache Attacks on the MMU @Malone228</title><link href="https://seclab-jhu.github.io/sec-read/aslr-on-the-line-practical-cache-attacks-on-the-mmu-malone228.html" rel="alternate"></link><published>2019-02-20T00:00:00-05:00</published><updated>2019-02-20T00:00:00-05:00</updated><author><name>seclab</name></author><id>tag:seclab-jhu.github.io,2019-02-20:/sec-read/aslr-on-the-line-practical-cache-attacks-on-the-mmu-malone228.html</id><summary type="html">&lt;h1&gt;Paper&lt;/h1&gt;
